@@ -1,0 +1,15 @@
+*.avi
+/*.png
+*.json
+*.jsonl
+__pycache__/
+captured_frames/
+data/
+dataset/
+exp_result/
+imgs/
+inference_with_index/
+log_output/
+max_captured_images/
+metrics/
+models/
